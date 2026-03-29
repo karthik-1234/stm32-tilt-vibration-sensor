@@ -1,0 +1,17 @@
+# Build folders
+Debug/
+Release/
+
+# STM32CubeIDE
+.settings/
+*.launch
+
+# Object files
+*.o
+*.d
+*.elf
+*.bin
+*.map
+
+# macOS (since you're on Mac)
+.DS_Store
